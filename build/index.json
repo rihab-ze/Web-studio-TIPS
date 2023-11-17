@@ -1,0 +1,122 @@
+[
+  {
+    "group": "Page layout",
+    "icon": "fa fa-columns",
+    "tags": [
+      "template",
+      "column",
+      "layout",
+      "columns"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/page-layout.json"
+  },
+  {
+    "group": "Datatables",
+    "icon": "fa fa-table",
+    "tags": [
+      "datatable",
+      "template"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/datatables.json"
+  },
+  {
+    "group": "Qodly cash app templates",
+    "icon": "fa fa-money",
+    "tags": [
+      "invoice",
+      "cash",
+      "menu",
+      "dashboard"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/qodly-cash-app-templates.json"
+  },
+  {
+    "group": "Healthcare",
+    "icon": "fa fa-medkit",
+    "tags": [
+      "health",
+      "medicine",
+      "patients"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/healthcare.json"
+  },
+  {
+    "group": "Job Board",
+    "icon": "fa-user-circle",
+    "tags": [
+      "job"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/job-board.json"
+  },
+  {
+    "group": "Travel booking",
+    "icon": "fas fa-plane",
+    "tags": [
+      "travel",
+      "booking"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/travel-booking.json"
+  },
+  {
+    "group": "Business trip",
+    "icon": "fa fa-handshake-o",
+    "tags": [
+      "trip",
+      "business"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/business-trip.json"
+  },
+  {
+    "group": "HR",
+    "icon": "fa-solid fa-users",
+    "tags": [
+      "Human Resources"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/hr.json"
+  },
+  {
+    "group": "Study",
+    "icon": "fa-graduation-cap",
+    "tags": [
+      "Student"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/study.json"
+  },
+  {
+    "group": "Enterprise social network",
+    "icon": "fa fa-share-alt",
+    "tags": [
+      "template",
+      "social",
+      "network"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/enterprise-social-network.json"
+  },
+  {
+    "group": "Appointment",
+    "icon": "fa fa-th-list",
+    "tags": [
+      "template",
+      "list"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/appointment.json"
+  },
+  {
+    "group": "Timesheet",
+    "icon": "fa fa-calendar",
+    "tags": [
+      "template",
+      "times",
+      "timesheet"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/timesheet.json"
+  },
+  {
+    "group": "Event manager",
+    "icon": "fa-calendar-o",
+    "tags": [
+      "template"
+    ],
+    "link": "https://raw.githubusercontent.com/rihab-ze/Web-studio-TIPS/gh-build/build/event-manager.json"
+  }
+]

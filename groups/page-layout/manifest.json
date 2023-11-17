@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "name": "2 columns",
+      "description": "Simple page layout with 2 columns",
+      "banner": "assets//2columns.png",
+      "data": "components/2columns.json"
+    },
+    {
+      "name": "3 columns",
+      "description": "Simple page layout with 3 columns",
+      "banner": "assets/3columns.png",
+      "data": "components/3columns.json"
+    },
+    {
+      "name": "4 columns",
+      "description": "Simple page layout with 4 columns",
+      "banner": "assets/4columns.png",
+      "data": "components/4columns.json"
+    },
+    {
+      "name": "3 columns 1 small",
+      "description": "Simple page layout with 2 columns, 1 smaller on the left",
+      "banner": "assets/2columns-1small.png",
+      "data": "components/2columns-1small.json"
+    },
+    {
+      "name": "3 columns 1 small",
+      "description": "Simple page layout with 3 columns, 1 smaller on the left",
+      "banner": "assets/3columns-1small.png",
+      "data": "components/3columns-1small.json"
+    }
+  ]
+}

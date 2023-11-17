@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "name": "Header",
+      "banner": "assets/header.png",
+      "description": "A simple header",
+      "data": "components/header.json"
+    },
+    {
+      "name": "Search bar",
+      "banner": "assets/searchBar.png",
+      "description": "A nice Search bar",
+      "data": "components/searchBar.json"
+    },
+    {
+      "name": "Body",
+      "banner": "assets/body.png",
+      "description": "A nice website body",
+      "data": "components/body.json"
+    },
+    {
+      "name": "Body detail",
+      "banner": "assets/bodyDetail.png",
+      "description": "Another nice website body",
+      "data": "components/bodyDetail.json"
+    },
+    {
+      "name": "Footer",
+      "banner": "assets/footer.png",
+      "description": "A simple footer",
+      "data": "components/footer.json"
+    }
+  ]
+}

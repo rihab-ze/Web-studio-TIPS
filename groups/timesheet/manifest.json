@@ -1,0 +1,22 @@
+{
+  "components": [
+    {
+      "name": "Declare times",
+      "description": "This webform allows to visualize and declare time spent on activities",
+      "banner": "assets/declare.png",
+      "data": "components/declare.json"
+    },
+    {
+      "name": "Menu",
+      "description": "Simple header menu",
+      "banner": "assets/menu.png",
+      "data": "components/menu.json"
+    },
+    {
+      "name": "Month view",
+      "description": "Visualize times with a month calendar",
+      "banner": "assets/month-view.png",
+      "data": "components/month-view.json"
+    }
+  ]
+}
